@@ -1,0 +1,20 @@
+body {
+    display: grid;
+    justify-content: center;
+    margin: 0px;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+#main_head {
+    margin: 0px;
+    background-color: rgb(32, 100, 145);
+}
+
+#container {
+    margin: 0px;
+    background-color: rgb(32, 100, 145);
+    width: max-content;
+    height: max-content ;
+    padding: 10px;
+}
